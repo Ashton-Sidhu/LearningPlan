@@ -1,9 +1,11 @@
-# learning-plan
+# My Learning Plan
 
 
 <p align="center">
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
+
+Hi this is a checklist of my learning plan as I progress through my career!
 
 ### Broaden Perspective
 - [ ] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
