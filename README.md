@@ -263,8 +263,7 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 ### Be proficient in Python
-- [ ] [Book: Automate the boring stuff with python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
-- [ ] [Book: Dive into Python 3](http://www.diveintopython3.net/)
+- [x] [Book: Automate the boring stuff with python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 - [ ] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 - [ ] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 - [ ] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
@@ -273,7 +272,7 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
 - [ ] [Google's Python Class](https://developers.google.com/edu/python/)
 - [ ] [Treehouse: Python Decorators](https://teamtreehouse.com/library/python-decorators)
-- [ ] [Treehouse: Write Better Python](https://teamtreehouse.com/library/write-better-python)
+- [x] [Treehouse: Write Better Python](https://teamtreehouse.com/library/write-better-python)
 
 ### Be familiar with compiled languages
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
@@ -320,7 +319,6 @@ Hi this is a checklist of my learning plan as I progress through my career!
 
 ### Be able to efficiently use a text editor
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
-- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 
 ### Learn the Hiring Process
 - [ ] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
