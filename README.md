@@ -99,7 +99,7 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 
 ### Understand Maths behind algorithms
-- [ ] [Book: The Elements of Statistical Learning] (https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [ ] [Book: The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
