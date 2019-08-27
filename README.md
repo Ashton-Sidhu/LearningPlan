@@ -75,7 +75,7 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
-- [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
+- [x] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
 ### Be able to visualize data
@@ -83,8 +83,7 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [Datacamp: Data Visualization with Seaborn](https://www.datacamp.com/courses/data-visualization-with-seaborn)
 - [ ] [Datacamp: Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
 - [ ] [Datacamp: Visualizing Geospatial Data in Python](https://www.datacamp.com/courses/visualizing-geospatial-data-in-python)
-- [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
-- [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- [x] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 
 ### Develop ability to read Research Papers
 - [ ] [Paper: Tensorflow.js](https://arxiv.org/pdf/1901.05350.pdf)
@@ -123,14 +122,14 @@ Hi this is a checklist of my learning plan as I progress through my career!
 ### Be familiar with available models and algorithms
 - [ ] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [ ] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
-- [ ] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
+- [x] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
 - [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
-- [ ] [Datacamp: Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
+- [x] [Datacamp: Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
 - [ ] [Datacamp: Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark)
 - [ ] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
@@ -146,7 +145,7 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [Jason Machine Learning 101 Slides](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
-- [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
+- [x] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
 - [ ] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
 - [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
@@ -253,14 +252,14 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [Udacity: Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 
 ### Be able to write unit tests
-- [ ] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
-- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+- [x] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
+- [x] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 - [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
-- [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
+- [x] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
 - [ ] [Udacity: Javascript Testing](https://www.udacity.com/courses/ud549)
-- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
-- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [x] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
+- [x] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [x] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 ### Be proficient in Python
 - [x] [Book: Automate the boring stuff with python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
@@ -280,10 +279,10 @@ Hi this is a checklist of my learning plan as I progress through my career!
 - [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ### Be able to utilize version control
-- [ ] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-- [ ] [Git Immersion](http://gitimmersion.com/index.html)
-- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
-- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+- [x] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [x] [Git Immersion](http://gitimmersion.com/index.html)
+- [x] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
+- [x] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
 
 ### Know Computer Science Concepts
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
